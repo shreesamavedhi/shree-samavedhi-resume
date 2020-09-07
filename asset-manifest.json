@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/shree-samavedhi-resume/static/css/main.f169819d.chunk.css",
-    "main.js": "/shree-samavedhi-resume/static/js/main.abe00a70.chunk.js",
-    "main.js.map": "/shree-samavedhi-resume/static/js/main.abe00a70.chunk.js.map",
+    "main.js": "/shree-samavedhi-resume/static/js/main.a1c1651a.chunk.js",
+    "main.js.map": "/shree-samavedhi-resume/static/js/main.a1c1651a.chunk.js.map",
     "runtime-main.js": "/shree-samavedhi-resume/static/js/runtime-main.23cb7c15.js",
     "runtime-main.js.map": "/shree-samavedhi-resume/static/js/runtime-main.23cb7c15.js.map",
     "static/js/2.ba5513a8.chunk.js": "/shree-samavedhi-resume/static/js/2.ba5513a8.chunk.js",
     "static/js/2.ba5513a8.chunk.js.map": "/shree-samavedhi-resume/static/js/2.ba5513a8.chunk.js.map",
     "index.html": "/shree-samavedhi-resume/index.html",
-    "precache-manifest.b34ff1bd020aebac4be32d2d40c92a74.js": "/shree-samavedhi-resume/precache-manifest.b34ff1bd020aebac4be32d2d40c92a74.js",
+    "precache-manifest.a6a6e33e584491ce5bf078b47c352918.js": "/shree-samavedhi-resume/precache-manifest.a6a6e33e584491ce5bf078b47c352918.js",
     "service-worker.js": "/shree-samavedhi-resume/service-worker.js",
     "static/css/main.f169819d.chunk.css.map": "/shree-samavedhi-resume/static/css/main.f169819d.chunk.css.map",
     "static/js/2.ba5513a8.chunk.js.LICENSE.txt": "/shree-samavedhi-resume/static/js/2.ba5513a8.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.23cb7c15.js",
     "static/js/2.ba5513a8.chunk.js",
     "static/css/main.f169819d.chunk.css",
-    "static/js/main.abe00a70.chunk.js"
+    "static/js/main.a1c1651a.chunk.js"
   ]
 }

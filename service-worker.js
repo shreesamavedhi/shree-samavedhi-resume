@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/shree-samavedhi-resume/precache-manifest.b34ff1bd020aebac4be32d2d40c92a74.js"
+  "/shree-samavedhi-resume/precache-manifest.a6a6e33e584491ce5bf078b47c352918.js"
 );
 
 self.addEventListener('message', (event) => {
