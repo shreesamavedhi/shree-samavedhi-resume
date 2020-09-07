@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b47119f1fa2f3a30b8cc5eba67ff6ebf",
+    "revision": "f43fca30681bb1158a1f02dfc77143b9",
     "url": "/shree-samavedhi-resume/index.html"
   },
   {
-    "revision": "980e588dc4c045f09bba",
+    "revision": "3e667bf0df9d8b3c0ca8",
     "url": "/shree-samavedhi-resume/static/css/main.f169819d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/shree-samavedhi-resume/static/js/2.ba5513a8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "980e588dc4c045f09bba",
-    "url": "/shree-samavedhi-resume/static/js/main.b4bc7f15.chunk.js"
+    "revision": "3e667bf0df9d8b3c0ca8",
+    "url": "/shree-samavedhi-resume/static/js/main.766ab415.chunk.js"
   },
   {
     "revision": "b82825ca0ffb29dd12be",
